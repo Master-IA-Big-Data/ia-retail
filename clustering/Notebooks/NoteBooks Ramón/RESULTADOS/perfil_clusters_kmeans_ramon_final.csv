@@ -1,0 +1,5 @@
+﻿Cluster,Nombre_Cluster,Num_Clientes,Recency_Media,Frequency_Media,Monetary_Medio,UniqueProducts_Medio,AverageOrderValue_Medio,MonthlySpending_Medio,Products_Per_Order_Medio,PurchaseInterval_Medio,Porcentaje_UK,Weekend_Ratio_Medio,Porcentaje_Clientes
+0,Clientes estándar de bajo valor,2786,113.23,2.24,634.37,34.62,295.59,271.03,17.41,47.87,91.0,0.0,67.69
+1,Clientes de compra en fin de semana,341,105.72,2.3,602.79,50.43,264.69,257.3,23.7,40.32,98.0,94.0,8.28
+2,Clientes activos de valor medio,420,51.98,4.45,1327.26,77.47,308.06,259.38,18.71,74.35,94.0,39.0,10.2
+3,Clientes de alto valor,569,29.07,10.03,4073.33,129.76,504.04,543.29,16.76,37.7,91.0,6.0,13.82

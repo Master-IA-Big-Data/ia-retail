@@ -1,0 +1,5 @@
+﻿Modelo,Num_Clusters,Ruido,Porcentaje_Ruido,Silhouette,Davies_Bouldin,Calinski_Harabasz,Interpretabilidad
+K-Means,4,0,0.0,0.4418,1.042,3427.26,Alta: 4 segmentos diferenciados y accionables
+Agglomerative Clustering,4,0,0.0,0.383,1.0684,3041.53,"Media-alta: perfiles similares a K-Means, pero métricas inferiores"
+DBSCAN ajustado,2,457,11.1,0.7154,0.3165,4362.56,"Media-baja: buenas métricas, pero solo 2 clústeres y clientes en ruido"
+Gaussian Mixture Model,4,0,0.0,0.0485,3.195,311.01,"Baja-media: distribución equilibrada, pero alto solapamiento"
